@@ -123,7 +123,7 @@ class LogViewer
         echo '<p><a href="' . esc_url(admin_url('admin.php?page=debug-log-viewer&debug_log_clear=1')) . '" class="button">Vider le log</a></p>';
         echo '<p>';
         echo '<label for="log-search">Filtrer les lignes du log : </label>';
-        echo '<input type="text" class="log-search" placeholder="Ex : error, warning..." style="min-width: 300px;">';
+        echo '<input type="text" class="log-search" placeholder="Error..." style="min-width: 300px;">';
         echo '</p>';
         echo '<p><a href="" class="button btn-search">Rechercher dans le log</a></p>';
         echo '<section class="containerlog">';
