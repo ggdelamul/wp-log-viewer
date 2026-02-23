@@ -1,5 +1,5 @@
 # 📄 Log Viewer – Visualiseur de debug.log pour WordPress
-
+Cours de développememtn WordPress
 Un plugin WordPress orienté objet qui permet d’afficher le contenu du fichier `debug.log` dans l’interface d’administration. Il offre également un bouton pour vider le fichier.
 
 ---
